@@ -9,7 +9,7 @@
 This project explores a smart helmet accident-alert workflow using an STM32F103C8T6 microcontroller. The application checks a helmet-wear IR input, monitors MPU6050 acceleration for possible impact, sounds a buzzer, and provides a 15-second button cancellation period. If the warning is not cancelled, the firmware attempts to obtain GPS coordinates and send an emergency SMS using a SIM800L GSM module.
 
 ## Prototype photograph
-![Hardware Prototype](Hardware/project%20o1.jpeg)
+![hardware Prototype](hardware/project%20o1.jpeg)
 
 *Photograph of the team's breadboard-based electronics prototype. It does not establish helmet integration, wiring correctness, or completed functional testing.*
 
