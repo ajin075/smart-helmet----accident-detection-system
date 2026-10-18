@@ -10,7 +10,7 @@ This project explores a smart helmet accident-alert workflow using an STM32F103C
 
 ## Prototype photograph
 
-![Breadboard-based smart helmet detection prototype](Hardware/smart_helmet_prototype.jpg)
+![Breadboard-based smart helmet detection prototype](hardware/project o1.jpg)
 
 *Photograph of the team's breadboard-based electronics prototype. It does not establish helmet integration, wiring correctness, or completed functional testing.*
 
