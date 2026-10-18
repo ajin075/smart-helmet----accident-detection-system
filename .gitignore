@@ -1,0 +1,19 @@
+# STM32CubeIDE / Eclipse local metadata and generated outputs
+Debug/
+Release/
+.settings/
+.metadata/
+*.launch
+*.elf
+*.hex
+*.bin
+*.map
+*.o
+*.d
+*.su
+*.cyclo
+*.list
+*.log
+.DS_Store
+Thumbs.db
+# Keep .ioc, .project, and .cproject if a full CubeIDE project is later added.
