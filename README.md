@@ -80,19 +80,13 @@ Helmet wear detected (IR)
 
 ## Team and credits
 
-Replace the placeholders below with the **actual** names, GitHub usernames, and responsibilities. Do not claim roles or commits that did not occur.
-
 | Team member | GitHub profile
-|---|---|---|
+
 | `[KRISHNENDHU P J]` | `[krishnendhupj70] https://github.com/krishnendhupj70` | 
 | `[SHIVNAND P P]` | `[shivnandpp] https://github.com/shivnandpp` | 
 | `[AJIN JAMES ]` | `[ajin075] https://github.com/ajin075` | 
 
 
-
-## Repository collaboration
-
-The owner should invite all three teammates under **Settings → Collaborators → Add people**. Each person should accept the invitation and use their own Git identity for future commits. A shared README credit is distinct from GitHub's commit-history contributor statistics. Do not manufacture commit history or attribute code commits to teammates who did not make them.
 
 ## Disclaimer
 
