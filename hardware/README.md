@@ -69,8 +69,8 @@ Helmet wear detected (IR)
 
 ## Source files
 
-- [`Firmware/smart_helmet.c`](firmware/smart_helmet.c) — reconstructed plain-text version of the supplied application code, with original behavior preserved except minor formatting/defensive default-switch handling.
-- [`Firmware/smart_helmet.h`](firmware/smart_helmet.h) — reconstructed interface declarations.
+- [`firmware/smart_helmet.c`](firmware/smart_helmet.c) — reconstructed plain-text version of the supplied application code, with original behavior preserved except minor formatting/defensive default-switch handling.
+- [`firmware/smart_helmet.h`](firmware/smart_helmet.h) — reconstructed interface declarations.
 - [`Documentation/SETUP.md`](Documentation/SETUP.md) — missing CubeMX configuration and integration steps.
 - [`Documentation/TECHNICAL_NOTES.md`](Documentation/TECHNICAL_NOTES.md) — known limitations and validation checklist.
 
