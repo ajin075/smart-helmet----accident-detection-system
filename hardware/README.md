@@ -83,7 +83,7 @@ Replace the placeholders below with the **actual** names, GitHub usernames, and 
 
 | Team member | GitHub profile
 |---|---|---|
-| `[KRISHNENDHU P J]` | `[krishnendhupj70] https://github.com/krishnendhupj70` | 
+| `[KRISHNENDHU P J]` | `[krishnendhupj70-hue] https://github.com/krishnendhupj70-hue` | 
 | `[SHIVNAND P P]` | `[shivnandpp] https://github.com/shivnandpp` | 
 | `[AJIN JAMES ]` | `[ajin075] https://github.com/ajin075` | 
 
